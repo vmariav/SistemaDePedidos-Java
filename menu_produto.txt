@@ -1,0 +1,7 @@
+--- MENU DE PRODUTO ---
+1. Cadastrar Produto
+2. Listar Produtos
+3. Buscar Produto por código
+4. Atualizar Produto
+5. Excluir Produto
+0. Voltar ao menu principal

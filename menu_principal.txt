@@ -1,0 +1,5 @@
+====== MENU PRINCIPAL ======
+1. Menu de Cadastro
+2. Menu de Produto
+3. Menu de Pedidos
+0. Sair

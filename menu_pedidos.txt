@@ -1,0 +1,7 @@
+--- MENU DE PEDIDOS ---
+1. Cadastrar Pedido de Venda
+2. Listar Pedidos
+3. Buscar Pedido por Número
+4. Atualizar Pedido
+5. Excluir Pedido
+0. Voltar ao menu principal

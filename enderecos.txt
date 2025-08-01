@@ -1,0 +1,4 @@
+1;6598;Osorio;140;Faculdade;Correspondência
+1;456;Lilian;31;Casa;Comercial
+2;8975;Ipes;161;Casa;Entrega
+3;7865;Marechal Deodoro;457;Apartamento;Correspondência

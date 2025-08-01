@@ -1,0 +1,135 @@
+[2025-06-03 18:27:15] Produto excluído: Código: 2 | Descrição: Laranja | Custo: R$7.0 | Preço Venda: R$18.0 | Fornecedor: 3
+[2025-06-03 18:31:18] Pedido cadastrado: 1
+[2025-06-03 19:11:31] Produto cadastrado: Código: 3 | Descrição: melancia | Custo: R$45.0 | Preço Venda: R$25.0 | Fornecedor: 1
+[2025-06-03 19:11:45] Produto atualizado: Código: 3 | Descrição: melancia | Custo: R$45.0 | Preço Venda: R$25.0 | Fornecedor: 1
+[2025-06-03 19:34:15] Produto consultado por código: 1
+[2025-06-03 19:45:40] Pedido cadastrado: 1
+[2025-06-10 20:02:42] Pedido cadastrado: 1
+[2025-06-10 20:51:56] Pedido cadastrado: 1
+[2025-06-10 20:52:34] Pedido consultado: 1
+[2025-06-10 20:53:35] Pedido cadastrado: 2
+[2025-06-10 20:54:33] Pedido cadastrado: 3
+[2025-06-10 20:55:12] Pedido atualizado: 1
+[2025-06-10 20:55:24] Pedido excluído: 1
+[2025-06-10 20:57:11] Pessoa cadastrada: Código: 7 | Nome: fornecedor | Tipo: FORNECEDOR | Endereços: 2
+[2025-06-10 20:58:18] Pessoa cadastrada: Código: 4 | Nome: fornecedor | Tipo: AMBOS | Endereços: 2
+[2025-06-10 20:59:57] Pedido cadastrado: 1
+[2025-06-10 21:00:23] Pedido consultado: 1
+[2025-06-10 21:01:35] Pedido cadastrado: 2
+[2025-06-10 21:01:41] Pedido consultado: 1
+[2025-06-10 21:01:44] Pedido consultado: 2
+[2025-06-10 21:03:40] Produto cadastrado: Código: 4 | Descrição: caixa | Custo: R$17.0 | Preço Venda: R$28.0 | Fornecedor: 4
+[2025-06-10 21:03:54] Produto excluído: Código: 1 | Descrição: ovo | Custo: R$130.0 | Preço Venda: R$25.0 | Fornecedor: 1
+[2025-06-10 21:03:58] Produto excluído: Código: 2 | Descrição: Banana | Custo: R$1.0 | Preço Venda: R$2.5 | Fornecedor: 10
+[2025-06-10 21:04:02] Produto excluído: Código: 3 | Descrição: melancia | Custo: R$45.0 | Preço Venda: R$25.0 | Fornecedor: 1
+[2025-06-10 21:04:04] Produto excluído: Código: 4 | Descrição: caixa | Custo: R$17.0 | Preço Venda: R$28.0 | Fornecedor: 4
+[2025-06-10 21:04:21] Pessoa excluída: Código: 4 | Nome: fornecedor | Tipo: AMBOS | Endereços: 2
+[2025-06-10 21:04:26] Pessoa excluída: Código: 7 | Nome: fornecedor | Tipo: FORNECEDOR | Endereços: 2
+[2025-06-10 21:06:03] Pessoa cadastrada: Código: 2 | Nome: Joao | Tipo: AMBOS | Endereços: 3
+[2025-06-10 21:06:09] Pessoa consultada por código: 2
+[2025-06-10 21:07:05] Pessoa cadastrada: Código: 3 | Nome: Luiz | Tipo: FORNECEDOR | Endereços: 2
+[2025-06-10 21:07:44] Endereço atualizado da pessoa 2: Entrega: avenida, 56 - casa | CEP: 56
+[2025-06-10 21:07:44] Pessoa atualizada: Código: 2 | Nome: Joao | Tipo: AMBOS | Endereços: 3
+[2025-06-10 21:08:24] Produto cadastrado: Código: 1 | Descrição: ovos | Custo: R$2.0 | Preço Venda: R$5.0 | Fornecedor: 2
+[2025-06-10 21:09:01] Produto cadastrado: Código: 2 | Descrição: leite | Custo: R$4.0 | Preço Venda: R$12.0 | Fornecedor: 3
+[2025-06-10 21:09:19] Produto cadastrado: Código: 3 | Descrição: alface | Custo: R$30.0 | Preço Venda: R$38.0 | Fornecedor: 3
+[2025-06-10 21:09:27] Produto consultado por código: 1
+[2025-06-10 21:10:23] Produto atualizado: Código: 3 | Descrição: alface | Custo: R$5.5 | Preço Venda: R$6.78 | Fornecedor: 3
+[2025-06-10 21:10:51] Produto excluído: Código: 4 | Descrição: caixa | Custo: R$17.0 | Preço Venda: R$28.0 | Fornecedor: 4
+[2025-06-10 21:11:27] Pedido cadastrado: 1
+[2025-06-10 21:11:35] Pedido consultado: 1
+[2025-06-10 21:12:17] Pedido cadastrado: 2
+[2025-06-10 21:13:03] Pedido atualizado: 2
+[2025-06-10 21:13:48] Pedido atualizado: 2
+[2025-06-10 21:14:07] Pedido excluído: 2
+[2025-06-10 22:19:53] Pedido cadastrado: 1
+[2025-06-10 22:20:25] Pedido atualizado (produtos/endereço): 1
+[2025-06-10 22:42:52] Pessoa excluída: Código: 7 | Nome: fornecedor | Tipo: FORNECEDOR | Endereços: 2
+[2025-06-10 22:42:58] Pessoa excluída: Código: 4 | Nome: fornecedor | Tipo: AMBOS | Endereços: 2
+[2025-06-10 22:44:07] Produto cadastrado: Código: 1 | Descrição: Ovos | Custo: R$1.25 | Preço Venda: R$3.5 | Fornecedor: 2 | Estoque: 3
+[2025-06-10 22:44:12] Produto consultado por código: 1
+[2025-06-11 13:45:35] Pedido cadastrado: 1
+[2025-06-11 13:46:13] Pedido excluído: 1
+[2025-06-14 23:44:25] Pedido excluído: 2
+[2025-06-14 23:44:32] Pedido excluído: 3
+[2025-06-14 23:45:05] Pedido excluído: 1
+[2025-06-14 23:46:00] Pedido cadastrado: 1
+[2025-06-14 23:46:25] Pedido excluído: 1
+[2025-06-16 01:27:27] Pedido excluído: 3
+[2025-06-16 01:27:34] Pedido excluído: 1
+[2025-06-16 01:27:49] Pedido excluído: 2
+[2025-06-16 01:30:26] Pedido excluído: 1
+[2025-06-16 01:30:28] Pedido excluído: 2
+[2025-06-16 01:30:30] Pedido excluído: 3
+[2025-06-16 01:32:10] Pessoa excluída: Código: 1 | Nome: Maria | Tipo: CLIENTE | Endereços: 1
+[2025-06-16 01:32:12] Pessoa excluída: Código: 2 | Nome: Joao | Tipo: AMBOS | Endereços: 3
+[2025-06-16 01:32:15] Pessoa excluída: Código: 3 | Nome: Luiz | Tipo: FORNECEDOR | Endereços: 2
+[2025-06-16 01:32:17] Pessoa excluída: Código: 4 | Nome: fornecedor | Tipo: AMBOS | Endereços: 2
+[2025-06-16 01:32:25] Pessoa excluída: Código: 7 | Nome: fornecedor | Tipo: FORNECEDOR | Endereços: 2
+[2025-06-16 01:33:04] Produto excluído: Código: 1 | Descrição: Ovos | Custo: R$1.25 | Preço Venda: R$3.5 | Fornecedor: 2 | Estoque: 3
+[2025-06-16 01:37:01] Pessoa cadastrada: Código: 1 | Nome: Maria | Tipo: CLIENTE | Endereços: 2
+[2025-06-16 01:38:25] Pessoa cadastrada: Código: 2 | Nome: Joao | Tipo: FORNECEDOR | Endereços: 1
+[2025-06-16 01:38:55] Pessoa cadastrada: Código: 3 | Nome: Fabio | Tipo: AMBOS | Endereços: 1
+[2025-06-16 01:39:22] Pessoa consultada por código: 2
+[2025-06-16 01:39:27] Pessoa consultada por código: 1
+[2025-06-16 01:40:25] Endereço atualizado da pessoa 3: Correspondência: Marechal Deodoro, 457 - Apartamento | CEP: 7865
+[2025-06-16 01:40:25] Pessoa atualizada: Código: 3 | Nome: Rebeca | Tipo: CLIENTE | Endereços: 1
+[2025-06-16 01:40:43] Pessoa consultada por código: 3
+[2025-06-16 01:41:06] Pessoa atualizada: Código: 3 | Nome: Rebeca | Tipo: AMBOS | Endereços: 1
+[2025-06-16 01:41:30] Pessoa cadastrada: Código: 5 | Nome: k | Tipo: CLIENTE | Endereços: 1
+[2025-06-16 01:41:41] Pessoa excluída: Código: 5 | Nome: k | Tipo: CLIENTE | Endereços: 1
+[2025-06-16 01:43:12] Pessoa atualizada: Código: 1 | Nome: Maria | Tipo: CLIENTE | Endereços: 2
+[2025-06-16 01:43:35] Pessoa atualizada: Código: 1 | Nome: Maria | Tipo: CLIENTE | Endereços: 2
+[2025-06-16 01:46:26] Endereço atualizado da pessoa 1: Comercial: Osorio, 140 - Faculdade | CEP: 6598
+[2025-06-16 01:46:26] Pessoa atualizada: Código: 1 | Nome: Maria | Tipo: CLIENTE | Endereços: 2
+[2025-06-16 01:47:08] Endereço atualizado da pessoa 1: k�: Osorio, 140 - Faculdade | CEP: 6598
+[2025-06-16 01:47:08] Pessoa atualizada: Código: 1 | Nome: Maria | Tipo: CLIENTE | Endereços: 2
+[2025-06-16 01:47:43] Endereço atualizado da pessoa 1: Comercial: Osorio, 140 - Faculdade | CEP: 6598
+[2025-06-16 01:47:43] Pessoa atualizada: Código: 1 | Nome: Maria | Tipo: CLIENTE | Endereços: 2
+[2025-06-16 01:51:24] Endereço atualizado da pessoa 1: Correspondência: Osorio, 140 - Faculdade | CEP: 6598
+[2025-06-16 01:51:24] Pessoa atualizada: Código: 1 | Nome: Maria | Tipo: CLIENTE | Endereços: 2
+[2025-06-16 01:51:29] Pessoa consultada por código: 1
+[2025-06-16 01:55:07] Produto cadastrado: Código: 1 | Descrição: Ovos | Custo: R$2.5 | Preço Venda: R$5.0 | Fornecedor: 2 | Estoque: 3
+[2025-06-16 01:56:29] Produto cadastrado: Código: 2 | Descrição: Banana | Custo: R$1.5 | Preço Venda: R$7.0 | Fornecedor: 3 | Estoque: 6
+[2025-06-16 01:57:21] Produto cadastrado: Código: 3 | Descrição: Leite | Custo: R$7.0 | Preço Venda: R$12.0 | Fornecedor: 2 | Estoque: 20
+[2025-06-16 01:57:59] Produto cadastrado: Código: 5 | Descrição: xz | Custo: R$5.0 | Preço Venda: R$5.0 | Fornecedor: 3 | Estoque: 5
+[2025-06-16 01:58:36] Produto atualizado: Código: 5 | Descrição: nova | Custo: R$5.0 | Preço Venda: R$5.0 | Fornecedor: 3 | Estoque: 5
+[2025-06-16 01:58:41] Produto excluído: Código: 5 | Descrição: nova | Custo: R$5.0 | Preço Venda: R$5.0 | Fornecedor: 3 | Estoque: 5
+[2025-06-16 01:59:33] Pedido cadastrado: 1
+[2025-06-16 02:00:28] Pedido atualizado (endereço/produtos removidos): 1
+[2025-06-16 02:00:47] Pedido atualizado (endereço/produtos removidos): 1
+[2025-06-16 02:09:26] Pedido atualizado (endereço/produtos removidos): 1
+[2025-06-16 02:10:23] Pedido atualizado (endereço/produtos removidos): 1
+[2025-06-16 02:10:50] Produto atualizado: Código: 2 | Descrição: Banana | Custo: R$1.5 | Preço Venda: R$7.0 | Fornecedor: 3 | Estoque: 6
+[2025-06-16 02:11:03] Produto atualizado: Código: 3 | Descrição: Leite | Custo: R$7.0 | Preço Venda: R$12.0 | Fornecedor: 2 | Estoque: 20
+[2025-06-16 02:11:29] Pedido excluído: 1
+[2025-06-16 02:12:17] Pedido cadastrado: 1
+[2025-06-16 02:12:48] Pedido excluído: 1
+[2025-06-17 12:16:17] Pedido cadastrado: 1
+[2025-06-17 12:17:56] Pedido atualizado (produtos removidos/adicionados): 1
+[2025-06-17 12:26:18] Pessoa cadastrada: Código: 4 | Nome: Lula | Tipo: AMBOS | Endereços: 1
+[2025-06-17 12:27:12] Endereço atualizado da pessoa 4: Residencial: Brasilia, 12 - Casa | CEP: 123
+[2025-06-17 12:27:12] Pessoa atualizada: Código: 4 | Nome: Elon | Tipo: AMBOS | Endereços: 1
+[2025-06-17 12:27:21] Pessoa excluída: Código: 4 | Nome: Elon | Tipo: AMBOS | Endereços: 1
+[2025-06-17 12:47:50] Endereço atualizado da pessoa 1: Correspondência: Osorio, 140 - Faculdade | CEP: 6598
+[2025-06-17 12:47:50] Pessoa atualizada: Código: 1 | Nome: Maria | Tipo: CLIENTE | Endereços: 2
+[2025-06-17 13:28:49] Endereço removido da pessoa 1: Residencial: Lilian, 30 - Casa | CEP: 8350
+[2025-06-17 13:29:28] Novo endereço adicionado para pessoa 1: Comercial: Lilian, 31 - Casa | CEP: 456
+[2025-06-17 13:29:31] Pessoa atualizada: Código: 1 | Nome: Maria | Tipo: CLIENTE | Endereços: 2
+[2025-06-17 13:37:04] Pessoa cadastrada: Código: 5 | Nome: klkl | Tipo: FORNECEDOR | Endereços: 1
+[2025-06-17 13:37:13] Pessoa excluída: Código: 5 | Nome: klkl | Tipo: FORNECEDOR | Endereços: 1
+[2025-06-17 13:46:03] Pedido cadastrado: 1
+[2025-06-17 13:46:59] Produto atualizado: Código: 1 | Descrição: Ovos | Custo: R$2.5 | Preço Venda: R$5.0 | Fornecedor: 2 | Estoque: 3
+[2025-06-17 13:47:15] Produto atualizado: Código: 2 | Descrição: Banana | Custo: R$1.5 | Preço Venda: R$7.0 | Fornecedor: 3 | Estoque: 9
+[2025-06-17 13:47:30] Produto atualizado: Código: 3 | Descrição: Leite | Custo: R$7.0 | Preço Venda: R$12.0 | Fornecedor: 2 | Estoque: 12
+[2025-06-17 13:48:06] Pedido atualizado (produtos removidos/adicionados): 1
+[2025-06-17 13:49:14] Pedido atualizado (produtos removidos/adicionados): 1
+[2025-06-17 13:53:04] Produto consultado por código: 1
+[2025-06-17 13:53:29] Pedido atualizado (produtos removidos/adicionados): 1
+[2025-06-17 14:01:18] Pedido atualizado (produtos removidos/adicionados): 1
+[2025-06-17 14:01:34] Produto atualizado: Código: 1 | Descrição: Ovos | Custo: R$2.5 | Preço Venda: R$5.0 | Fornecedor: 2 | Estoque: 0
+[2025-06-17 14:28:56] Pedido atualizado (produtos removidos/adicionados): 1
+[2025-06-17 14:29:15] Pedido excluído após remoção de todos os produtos: 1
+[2025-06-17 14:34:28] Pedido cadastrado: 1
+[2025-06-17 19:28:15] Pedido atualizado (produtos removidos/adicionados): 1
+[2025-06-17 20:37:40] Pessoa atualizada: Código: 1 | Nome: Maria | Tipo: CLIENTE | Endereços: 2

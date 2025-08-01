@@ -1,0 +1,3 @@
+1;Maria;CLIENTE
+2;Joao;FORNECEDOR
+3;Rebeca;AMBOS

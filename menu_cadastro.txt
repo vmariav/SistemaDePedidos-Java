@@ -1,0 +1,7 @@
+--- MENU DE CADASTRO ---
+1. Cadastrar Pessoa
+2. Listar Pessoas
+3. Buscar Pessoa por Código
+4. Atualizar Pessoa
+5. Excluir Pessoa
+0. Voltar ao menu principal
